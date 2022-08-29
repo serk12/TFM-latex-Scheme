@@ -1,0 +1,105 @@
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+%% leer esto: https://bibliotecnica.upc.edu/en/estudiants/6-passos-que-teu-tfg/tfm-sigui-exit
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+%% https://upcommons.upc.edu/bitstream/handle/2099.1/7721/Tripiana.pdf?sequence=1&isAllowed=y
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+
+\documentclass[paper=a4,dissertation,math,vertlayout,pdfa,colorlinks,nologo]{aaltoseries}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,english]{babel}
+\usepackage{amsmath,amssymb,amsthm} 
+\usepackage[indentfirst=false,vskip=3mm]{quoting} 
+\usepackage[SchoolofEngineering]{aaltologo}
+\usepackage{hyperref} 
+\usepackage{lipsum}  
+\usepackage{listings}
+\usepackage{emptypage}
+\usepackage{makeidx}
+\usepackage{url}
+\usepackage[numbers]{natbib}
+\usepackage[title,titletoc]{appendix}
+
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+% The title of the thesis
+\begin{titlepage}
+\title{     
+    \textbf{
+        \hspace{-12ex}Lorem Ipsum
+        \\ \hspace{-12ex}dolor sit amet
+    }
+    \\[2.5ex]
+    \textit{\hspace{-12ex}\\ \hspace{-11ex}}
+}
+\author{
+    \hspace{-18ex} \textbf{consectetur:}  adipiscing \\[2.5ex]
+    \hspace{-18ex} \textbf{tellus:}eu fringilla justo\\[2.5ex]
+    \hspace{-18ex} \texttt{ Suspendisse posuere libero} \\[2.5ex]
+    \hspace{-18ex} \normalsize{elit. Morbi nunc nulla}
+}
+\date{}
+\end{titlepage}
+
+%% begin documentation
+\begin{document}
+\maketitle
+%% abstract
+\chapter*{Abstract}
+\tab  Quisque eu pellentesque urna, at consequat orci. Maecenas quis dolor nulla. Proin laoreet vestibulum volutpat. Duis vitae dolor aliquam, aliquam orci ut, blandit nisi. Ut aliquet, turpis non cursus dapibus, metus magna vestibulum tortor, et placerat neque leo ornare purus. Ut placerat dolor sem, vitae egestas libero sodales vel. Morbi eget tellus dolor.
+\\ \tab Phasellus pretium dolor orci, quis gravida metus convallis vitae. Vestibulum a urna a nulla cursus rutrum id non enim. Pellentesque semper euismod convallis. Sed sit amet magna tortor. Phasellus lorem massa, pulvinar in lacus sed, consequat luctus nibh. Suspendisse tristique lacus et lectus commodo, vitae fringilla neque rhoncus. Integer et ligula in mauris aliquet sodales vel et velit. 
+\newpage
+\chapter*{Acknowledgments}
+Proin feugiat nunc nec turpis gravida fringilla. Nunc sit amet sagittis augue. Maecenas mauris nulla, gravida id consectetur nec, pellentesque non orci. Praesent varius mauris nec lorem porttitor hendrerit. Aliquam a eros rhoncus, tempor neque vel, viverra tortor. Nullam a justo eu ante lobortis ultricies ac nec neque. Morbi pellentesque id nunc id dictum. Curabitur placerat blandit ante. Nulla facilisi. Etiam enim eros, semper sit amet ultricies ornare, rhoncus ac ex. Proin tellus quam, gravida ac tellus non, dignissim gravida ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed a fermentum eros. Integer porta eros ut dictum faucibus. Donec fringilla eget massa a consequat. 
+%% index
+{
+    \hypersetup{linkcolor=black}
+    \tableofcontents
+}
+
+%% The main matter, one can obviously use \input or \include
+\chapter{Introduction}
+\vspace{-25ex}
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=130mm]{images/evolution.png}
+    \caption{Praesent ac eros sed tortor aliquet imperdiet. Ut ut tellus sit amet ligula hendrerit faucibus. Sed gravida volutpat convallis.}
+\end{figure}
+\tab Maecenas scelerisque rhoncus diam, a vehicula libero rhoncus eget. Ut sit amet justo eros. Praesent accumsan laoreet risus, ac suscipit ipsum fermentum ultricies. Morbi ac ligula id nisl gravida posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula eu lorem malesuada eleifend. In pellentesque aliquet nibh in interdum. Vivamus sem ex, mollis in laoreet ac, ultrices nec nibh. Pellentesque scelerisque interdum lacus eu pharetra. Sed tincidunt mi ut nulla eleifend, eget ultrices felis cursus. Morbi elementum lacus et tortor lobortis venenatis. Vivamus vehicula consequat enim, id aliquet ipsum scelerisque sit amet. Maecenas vitae vestibulum orci. Integer lacinia nisl a tincidunt pulvinar. Ut porta sed mi ut varius. Nunc et dui quam.
+\\ \tab Praesent quis quam eu libero ornare tristique interdum et odio. Nam varius mauris massa, ut luctus nulla eleifend vel. Vivamus cursus est id porta ullamcorper. Duis efficitur hendrerit nunc dignissim consectetur. In quis pretium turpis. Etiam in accumsan velit, nec maximus dui. Nulla interdum dictum leo at auctor. Quisque at laoreet tellus, quis rhoncus mi. Aenean urna eros, porttitor sed congue vel, sagittis a leo.
+\\ \tab Suspendisse urna arcu, vulputate sit amet ullamcorper eget, gravida eu neque. Mauris vehicula velit purus, ac pharetra erat varius id. Curabitur sed pretium sapien, ut condimentum nibh. Nulla orci purus, bibendum sit amet quam in, mollis semper tortor. Praesent pharetra condimentum nulla, sed interdum diam condimentum et. Ut finibus leo quis enim eleifend porttitor. Integer egestas odio at quam porta, vel dapibus lorem commodo. Nulla scelerisque faucibus neque ac venenatis. Cras dictum tortor placerat, dignissim leo id, accumsan metus. Curabitur accumsan sapien ac auctor interdum. Phasellus et facilisis velit, non tempor augue. Fusce vel massa erat. Nunc posuere hendrerit nisl eu tempor. Morbi convallis, est id molestie feugiat, arcu lorem varius nisi, et vulputate ipsum ligula eget velit. Donec congue porttitor elit, a scelerisque est. Fusce id urna commodo dui aliquet condimentum nec quis tortor.
+\\ \tab Etiam vestibulum ligula ut lacus posuere luctus. Aliquam molestie tempus nunc at imperdiet. Pellentesque maximus bibendum porta. In consequat erat sed velit condimentum luctus. Morbi viverra eleifend leo, eu consectetur leo blandit vitae. Mauris ut aliquet lacus. Praesent ultrices mattis est, sit amet egestas sapien maximus eu. Fusce eu congue justo. Morbi auctor viverra fringilla. In lobortis sed mauris in pellentesque. Nullam consequat magna diam, sed fringilla augue tincidunt ac.
+\\ \tab Maecenas ac nunc purus. Duis dapibus sodales tortor a sodales. Aenean luctus libero at erat pulvinar sodales. Sed blandit purus at ipsum interdum, et semper lorem laoreet. Maecenas accumsan egestas lacinia. Suspendisse scelerisque sapien in ligula ullamcorper volutpat. In hac habitasse platea dictumst. Nullam placerat bibendum metus ut egestas. Sed a nibh felis.\cite{lipsum}
+
+\begin{align}
+    \text{final: } BTC &= \{ rand(TC_0, [1, ..., 1]), ... rand(TC_N, W_N) \} \nonumber \\
+    Lowest &= \max_{c \in TC_s}(\sum_{n=0}^{N - 1}|s - SS[n]| - |c - BTC[n]|) \nonumber \\
+    W_n &= \{ \forall s \in SS| Lowest - min_{c \in TC_s}(\sum_{n=0}^{N - 1}|s - SS[n]| - |c - BTC[n]|)\}
+\end{align}
+
+%% bibliografia
+\chapter{References}
+{
+    \let\clearpage\relax
+    \renewcommand{\bibsection}{\section*{\bibname}}
+    \renewcommand{\bibname}{Bibliography}
+    \bibliographystyle{plain} % Change as required
+    \LARGE\bibliography{references}
+}
+\begin{appendices}
+\chapter{Extras}
+\section*{Vivamus }
+    \begin{table}[!htb]
+        \begin{tabular}{|l|l|}
+        \hline
+        \ lorem mauris      & Time (h) \\ \hline
+        \#sollicitudin      & 213.98 \\ \hline
+        \#varius            & 1.5    \\ \hline
+        \#sagittis          & 8.5    \\ \hline
+        \end{tabular}
+    \end{table}
+\end{appendices}
+\end{document}
