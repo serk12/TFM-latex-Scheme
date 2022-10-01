@@ -1,0 +1,330 @@
+----->file: ../input/config/diaphragmRaw.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 758.406 [ms] 759 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 90796.6 [ms] 30686 [ms]
+----->final cloud point: 44159
+---->final filter points: 4259
+--->range: 48.0435
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 894.582 [ms] 185 [ms]
+------> SAMPLES FLAT CLOUD ---: 4259
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.0854067 qttyError: 0.000234797
+------>score: 0.0747254 qttyError: 0
+------>score: 0.169309 qttyError: 0.0213665
+------>score: 0.166814 qttyError: 0.0274712
+------>score: 0.148754 qttyError: 0.0241841
+------>score: 0.160001 qttyError: 0.0265321
+------>score: 0.18007 qttyError: 0.0316976
+------>score: 0.154953 qttyError: 0.027706
+---------->Matching result: Time difference (tics/real): 237460 [ms] 30614 [ms]
+---------->cad distances Time difference (tics/real): 5281.81 [ms] 707 [ms]
+------>precision: 610.998
+----->file: ../input/config/diaphragmRaw.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 758.586 [ms] 758 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 111334 [ms] 36699 [ms]
+----->final cloud point: 44159
+---->final filter points: 4259
+--->range: 48.0435
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1581.35 [ms] 296 [ms]
+------> SAMPLES FLAT CLOUD ---: 4259
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.192973 qttyError: 0.0436722
+------>score: 0.18181 qttyError: 0.0382719
+------>score: 0.110574 qttyError: 0.00211317
+------>score: 0.1582 qttyError: 0.0274712
+------>score: 0.0908795 qttyError: 0.000234797
+------>score: 0.148477 qttyError: 0.0154966
+------>score: 0.159804 qttyError: 0
+------>score: 0.139614 qttyError: 0
+---------->Matching result: Time difference (tics/real): 256278 [ms] 34064 [ms]
+---------->cad distances Time difference (tics/real): 5351.35 [ms] 703 [ms]
+------>precision: 614.666
+----->file: ../input/config/diaphragmRaw.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 755.601 [ms] 756 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 150728 [ms] 52802 [ms]
+----->final cloud point: 44159
+---->final filter points: 4259
+--->range: 48.0435
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1871.27 [ms] 408 [ms]
+------> SAMPLES FLAT CLOUD ---: 4259
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.134548 qttyError: 0.000469594
+------>score: 0.152169 qttyError: 0.0291148
+------>score: 0.181305 qttyError: 0.0540033
+------>score: 0.144633 qttyError: 0.00375675
+------>score: 0.127557 qttyError: 0
+------>score: 0.205162 qttyError: 0.0124442
+------>score: 0.198662 qttyError: 0.0528293
+------>score: 0.130907 qttyError: 0
+---------->Matching result: Time difference (tics/real): 259353 [ms] 33539 [ms]
+---------->cad distances Time difference (tics/real): 4558.62 [ms] 589 [ms]
+------>precision: 691.503
+----->file: ../input/config/diaphragmRaw.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1601.75 [ms] 1601 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 183795 [ms] 61402 [ms]
+----->final cloud point: 44159
+---->final filter points: 4259
+--->range: 48.0435
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1727.98 [ms] 337 [ms]
+------> SAMPLES FLAT CLOUD ---: 4259
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.130198 qttyError: 0.0157314
+------>score: 0.0661876 qttyError: 0
+------>score: 0.0792229 qttyError: 0
+------>score: 0.105436 qttyError: 0
+------>score: 0.13245 qttyError: 0.00986147
+------>score: 0.152894 qttyError: 0.0119746
+------>score: 0.104723 qttyError: 0
+------>score: 0.0758131 qttyError: 0
+---------->Matching result: Time difference (tics/real): 257032 [ms] 33187 [ms]
+---------->cad distances Time difference (tics/real): 5418.34 [ms] 706 [ms]
+------>precision: 614.755
+----->file: ../input/config/diaphragmRaw.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1594.53 [ms] 1594 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 182308 [ms] 60915 [ms]
+----->final cloud point: 44159
+---->final filter points: 4259
+--->range: 48.0435
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1775.28 [ms] 343 [ms]
+------> SAMPLES FLAT CLOUD ---: 4259
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.166473 qttyError: 0.0326368
+------>score: 0.129134 qttyError: 0
+------>score: 0.0940505 qttyError: 0
+------>score: 0.142786 qttyError: 0.0204273
+------>score: 0.0826324 qttyError: 0
+------>score: 0.155983 qttyError: 0.030054
+------>score: 0.116166 qttyError: 0
+------>score: 0.116107 qttyError: 0.0108007
+---------->Matching result: Time difference (tics/real): 260938 [ms] 33688 [ms]
+---------->cad distances Time difference (tics/real): 5808.52 [ms] 746 [ms]
+------>precision: 637.587
+----->file: ../input/config/diaphragmFlat.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1591.48 [ms] 1591 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 184647 [ms] 61914 [ms]
+----->final cloud point: 44159
+---->final filter points: 3800
+--->range: 55.8126
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1744.21 [ms] 336 [ms]
+------> SAMPLES FLAT CLOUD ---: 3800
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.00859286 qttyError: 0
+------>score: 0.0115317 qttyError: 0
+------>score: 0.00889499 qttyError: 0
+------>score: 0.0118104 qttyError: 0
+------>score: 0.0116178 qttyError: 0
+------>score: 0.00955751 qttyError: 0
+------>score: 0.013889 qttyError: 0
+------>score: 0.0095666 qttyError: 0
+---------->Matching result: Time difference (tics/real): 209103 [ms] 26991 [ms]
+---------->cad distances Time difference (tics/real): 5842.71 [ms] 749 [ms]
+------>precision: 13.3519
+----->file: ../input/config/diaphragmFlat.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1612.53 [ms] 1612 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 183420 [ms] 61225 [ms]
+----->final cloud point: 44159
+---->final filter points: 3800
+--->range: 55.8126
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1814.5 [ms] 369 [ms]
+------> SAMPLES FLAT CLOUD ---: 3800
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.00800628 qttyError: 0
+------>score: 0.00938107 qttyError: 0
+------>score: 0.00806541 qttyError: 0
+------>score: 0.0106363 qttyError: 0
+------>score: 0.0101568 qttyError: 0
+------>score: 0.0102839 qttyError: 0
+------>score: 0.0120257 qttyError: 0
+------>score: 0.00744915 qttyError: 0
+---------->Matching result: Time difference (tics/real): 208330 [ms] 26844 [ms]
+---------->cad distances Time difference (tics/real): 5759.09 [ms] 762 [ms]
+------>precision: 13.6193
+----->file: ../input/config/diaphragmFlat.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1595.93 [ms] 1596 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 182118 [ms] 60291 [ms]
+----->final cloud point: 44159
+---->final filter points: 3800
+--->range: 55.8126
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1786.64 [ms] 347 [ms]
+------> SAMPLES FLAT CLOUD ---: 3800
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.00692259 qttyError: 0
+------>score: 0.00883086 qttyError: 0
+------>score: 0.00890578 qttyError: 0
+------>score: 0.0129451 qttyError: 0
+------>score: 0.0103824 qttyError: 0
+------>score: 0.0108993 qttyError: 0
+------>score: 0.0118971 qttyError: 0
+------>score: 0.0112525 qttyError: 0
+---------->Matching result: Time difference (tics/real): 210825 [ms] 27218 [ms]
+---------->cad distances Time difference (tics/real): 6642.19 [ms] 857 [ms]
+------>precision: 68.6766
+----->file: ../input/config/diaphragmFlat.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1609.19 [ms] 1609 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 183609 [ms] 61085 [ms]
+----->final cloud point: 44159
+---->final filter points: 3800
+--->range: 55.8126
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1825.53 [ms] 382 [ms]
+------> SAMPLES FLAT CLOUD ---: 3800
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.0138707 qttyError: 0
+------>score: 0.0123933 qttyError: 0
+------>score: 0.00696842 qttyError: 0
+------>score: 0.0137691 qttyError: 0
+------>score: 0.0114883 qttyError: 0
+------>score: 0.00742838 qttyError: 0
+------>score: 0.011007 qttyError: 0
+------>score: 0.0074638 qttyError: 0
+---------->Matching result: Time difference (tics/real): 209379 [ms] 27035 [ms]
+---------->cad distances Time difference (tics/real): 6690 [ms] 856 [ms]
+------>precision: 67.7235
+----->file: ../input/config/diaphragmFlat.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1592.17 [ms] 1592 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 182835 [ms] 60967 [ms]
+----->final cloud point: 44159
+---->final filter points: 3800
+--->range: 55.8126
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1788.15 [ms] 412 [ms]
+------> SAMPLES FLAT CLOUD ---: 3800
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.00841263 qttyError: 0
+------>score: 0.0108441 qttyError: 0
+------>score: 0.011915 qttyError: 0
+------>score: 0.0103338 qttyError: 0
+------>score: 0.00900376 qttyError: 0
+------>score: 0.00920491 qttyError: 0
+------>score: 0.00857695 qttyError: 0
+------>score: 0.00876779 qttyError: 0
+---------->Matching result: Time difference (tics/real): 211999 [ms] 27298 [ms]
+---------->cad distances Time difference (tics/real): 5857.69 [ms] 760 [ms]
+------>precision: 13.3548
+----->file: ../input/config/diaphragm.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1600.6 [ms] 1600 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 183858 [ms] 61366 [ms]
+----->final cloud point: 44159
+---->final filter points: 5784
+--->range: 51.3192
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1726.19 [ms] 348 [ms]
+------> SAMPLES FLAT CLOUD ---: 5784
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.0197211 qttyError: 0
+------>score: 0.0245316 qttyError: 0
+------>score: 0.0190328 qttyError: 0
+------>score: 0.0178191 qttyError: 0
+------>score: 0.0270213 qttyError: 0
+------>score: 0.0215847 qttyError: 0
+------>score: 0.0274194 qttyError: 0
+------>score: 0.0343794 qttyError: 0
+---------->Matching result: Time difference (tics/real): 257636 [ms] 33000 [ms]
+---------->cad distances Time difference (tics/real): 8951.71 [ms] 1148 [ms]
+------>precision: 805.886
+----->file: ../input/config/diaphragm.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1600.18 [ms] 1600 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 182372 [ms] 61357 [ms]
+----->final cloud point: 44159
+---->final filter points: 5784
+--->range: 51.3192
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1738.73 [ms] 341 [ms]
+------> SAMPLES FLAT CLOUD ---: 5784
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.0287914 qttyError: 0
+------>score: 0.0314915 qttyError: 0
+------>score: 0.0213177 qttyError: 0
+------>score: 0.0279452 qttyError: 0
+------>score: 0.0216443 qttyError: 0
+------>score: 0.0221341 qttyError: 0
+------>score: 0.0244896 qttyError: 0
+------>score: 0.0214063 qttyError: 0
+---------->Matching result: Time difference (tics/real): 258313 [ms] 33338 [ms]
+---------->cad distances Time difference (tics/real): 7974.58 [ms] 1015 [ms]
+------>precision: 2072.6
+----->file: ../input/config/diaphragm.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1596.77 [ms] 1596 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 182675 [ms] 60631 [ms]
+----->final cloud point: 44159
+---->final filter points: 5784
+--->range: 51.3192
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1786.53 [ms] 348 [ms]
+------> SAMPLES FLAT CLOUD ---: 5784
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.0177178 qttyError: 0
+------>score: 0.03566 qttyError: 0.000345781
+------>score: 0.0324536 qttyError: 0
+------>score: 0.0183749 qttyError: 0
+------>score: 0.0141595 qttyError: 0
+------>score: 0.0333637 qttyError: 0
+------>score: 0.0381771 qttyError: 0
+------>score: 0.0259193 qttyError: 0
+---------->Matching result: Time difference (tics/real): 258738 [ms] 33308 [ms]
+---------->cad distances Time difference (tics/real): 8808.47 [ms] 1133 [ms]
+------>precision: 805.892
+----->file: ../input/config/diaphragm.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1609.36 [ms] 1609 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 182077 [ms] 60569 [ms]
+----->final cloud point: 44159
+---->final filter points: 5784
+--->range: 51.3192
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1865.84 [ms] 374 [ms]
+------> SAMPLES FLAT CLOUD ---: 5784
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.0331577 qttyError: 0
+------>score: 0.0252131 qttyError: 0
+------>score: 0.0300723 qttyError: 0
+------>score: 0.0285119 qttyError: 0
+------>score: 0.026075 qttyError: 0
+------>score: 0.0224663 qttyError: 0
+------>score: 0.016655 qttyError: 0
+------>score: 0.0283972 qttyError: 0
+---------->Matching result: Time difference (tics/real): 258070 [ms] 33510 [ms]
+---------->cad distances Time difference (tics/real): 6232.1 [ms] 798 [ms]
+------>precision: 818.466
+----->file: ../input/config/diaphragm.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1602.43 [ms] 1602 [ms]
+----->final render point: 98376
+---------->CAD Mesh load: Time difference (tics/real): 182146 [ms] 60748 [ms]
+----->final cloud point: 44159
+---->final filter points: 5784
+--->range: 51.3192
+----> from: 44159 to: 1650
+---------->pre select matching Time difference (tics/real): 1794.58 [ms] 346 [ms]
+------> SAMPLES FLAT CLOUD ---: 5784
+------> SAMPLES CAD CLOUD ---: 1650
+------>score: 0.0171701 qttyError: 0
+------>score: 0.0158191 qttyError: 0
+------>score: 0.0337985 qttyError: 0.000345781
+------>score: 0.021112 qttyError: 0
+------>score: 0.0258412 qttyError: 0
+------>score: 0.0212638 qttyError: 0
+------>score: 0.0278836 qttyError: 0
+------>score: 0.0209326 qttyError: 0
+---------->Matching result: Time difference (tics/real): 258512 [ms] 33342 [ms]
+---------->cad distances Time difference (tics/real): 13220.5 [ms] 1701 [ms]
+------>precision: 808.176

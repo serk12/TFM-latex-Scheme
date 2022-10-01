@@ -1,0 +1,674 @@
+----->file: ../input/config/diaphragm_sub.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 416.939 [ms] 416 [ms]
+----->final render point:: 98376
+---------->CAD Mesh load: Time difference (tics/real): 1656.56 [ms] 285 [ms]
+----->final cloud point:: 468
+Gizmo ----->cad aprox: 386.851
+----->file: ../input/config/diaphragm_sub.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 413.779 [ms] 413 [ms]
+----->final render point:: 98376
+---------->CAD Mesh load: Time difference (tics/real): 1639.42 [ms] 279 [ms]
+----->final cloud point:: 468
+Gizmo ----->cad aprox: 386.851
+----->file: ../input/config/diaphragm_sub.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 414.089 [ms] 414 [ms]
+----->final render point:: 98376
+---------->CAD Mesh load: Time difference (tics/real): 1637.1 [ms] 286 [ms]
+----->final cloud point:: 468
+Gizmo ----->cad aprox: 386.851
+----->file: ../input/config/usb_sub.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 254.058 [ms] 254 [ms]
+----->final render point:: 6696
+----->file: ../input/config/usb_sub.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 252.956 [ms] 252 [ms]
+----->final render point:: 6696
+---------->CAD Mesh load: Time difference (tics/real): 2082.4 [ms] 2082 [ms]
+----->final cloud point:: 166
+Gizmo ----->cad aprox: 2495.85
+----->file: ../input/config/usb_sub.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 251.433 [ms] 251 [ms]
+----->final render point:: 6696
+---------->CAD Mesh load: Time difference (tics/real): 2063.83 [ms] 2064 [ms]
+----->final cloud point:: 166
+Gizmo ----->cad aprox: 2495.85
+----->file: ../input/config/full_step_sub.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 33.844 [ms] 34 [ms]
+----->final render point:: 3594
+---------->CAD Mesh load: Time difference (tics/real): 536.101 [ms] 195 [ms]
+----->final cloud point:: 573
+Gizmo ----->cad aprox: 371.716
+----->file: ../input/config/full_step_sub.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 34.805 [ms] 34 [ms]
+----->final render point:: 3594
+---------->CAD Mesh load: Time difference (tics/real): 514.455 [ms] 195 [ms]
+----->final cloud point:: 573
+Gizmo ----->cad aprox: 371.716
+----->file: ../input/config/full_step_sub.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 33.676 [ms] 33 [ms]
+----->final render point:: 3594
+---------->CAD Mesh load: Time difference (tics/real): 535.029 [ms] 198 [ms]
+----->final cloud point:: 573
+Gizmo ----->cad aprox: 371.716
+----->file: ../input/config/bunny_sub.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 949.618 [ms] 949 [ms]
+----->final render point:: 207876
+---------->CAD Mesh load: Time difference (tics/real): 2248.28 [ms] 377 [ms]
+----->final cloud point:: 6740
+Gizmo ----->cad aprox: 595.394
+----->file: ../input/config/bunny_sub.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 944.535 [ms] 944 [ms]
+----->final render point:: 207876
+---------->CAD Mesh load: Time difference (tics/real): 2218.18 [ms] 376 [ms]
+----->final cloud point:: 6740
+Gizmo ----->cad aprox: 595.394
+----->file: ../input/config/bunny_sub.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 944.262 [ms] 944 [ms]
+----->final render point:: 207876
+---------->CAD Mesh load: Time difference (tics/real): 2226.67 [ms] 377 [ms]
+----->final cloud point:: 6740
+Gizmo ----->cad aprox: 595.394
+--->DIAPHRAGM
+----->file: ../input/config/diaphragm.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 414.366 [ms] 414 [ms]
+----->final render point:: 98376
+---------->CAD Mesh load: Time difference (tics/real): 91679.3 [ms] 29281 [ms]
+----->final cloud point:: 44159
+Gizmo ----->cad aprox: 92.1478
+----> from: 1005886 to: 40000
+----> from: 44159 to: 1625
+---------->pre select matching Time difference (tics/real): 87950.3 [ms] 68422 [ms]
+------> SAMPLES FLAT CLOUD ---: 40000
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.0667689 qttyError: 8.94734e-06
+------>score: 0.0216647 qttyError: 0
+------>score: 0.02941 qttyError: 0
+------>score: 0.0521538 qttyError: 0
+------>score: 0.0310268 qttyError: 0
+------>score: 0.0421815 qttyError: 0
+------>score: 0.0485283 qttyError: 0
+------>score: 0.0277994 qttyError: 0
+---------->Matching result: Time difference (tics/real): 1.15719e+06 [ms] 147613 [ms]
+----> from: 1005886 to: 40000
+----> from: 44159 to: 1625
+---------->pre select matching Time difference (tics/real): 95632 [ms] 69888 [ms]
+------> SAMPLES FLAT CLOUD ---: 40000
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.0289264 qttyError: 0
+------>score: 0.0306159 qttyError: 0
+------>score: 0.090695 qttyError: 0
+------>score: 0.0906609 qttyError: 0.00242175
+------>score: 0.033632 qttyError: 0
+------>score: 0.0530992 qttyError: 0
+------>score: 0.0407425 qttyError: 0
+------>score: 0.0285361 qttyError: 0
+---------->Matching result: Time difference (tics/real): 1.20638e+06 [ms] 154260 [ms]
+----> from: 1005886 to: 40000
+----> from: 44159 to: 1625
+---------->pre select matching Time difference (tics/real): 98875.1 [ms] 71372 [ms]
+------> SAMPLES FLAT CLOUD ---: 40000
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.0150963 qttyError: 0
+------>score: 0.0173068 qttyError: 0
+------>score: 0.0514645 qttyError: 0.000288303
+------>score: 0.0223259 qttyError: 0
+------>score: 0.0283897 qttyError: 0
+------>score: 0.0156225 qttyError: 0
+------>score: 0.0198983 qttyError: 0
+------>score: 0.018277 qttyError: 0
+---------->Matching result: Time difference (tics/real): 1.19644e+06 [ms] 155929 [ms]
+---->final filter points: 2695
+----> from: 44159 to: 1625
+---------->pre select matching Time difference (tics/real): 2598.19 [ms] 404 [ms]
+------> SAMPLES FLAT CLOUD ---: 2695
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.57761 qttyError: 0.489054
+------>score: 0.473783 qttyError: 0.380334
+------>score: 0.503454 qttyError: 0.393692
+------>score: 0.507913 qttyError: 0.419295
+------>score: 0.436715 qttyError: 0.361039
+------>score: 0.468174 qttyError: 0.388868
+------>score: 0.516498 qttyError: 0.419666
+------>score: 0.512077 qttyError: 0.403711
+---------->Matching result: Time difference (tics/real): 231734 [ms] 30655 [ms]
+----> from: 44159 to: 1625
+---------->pre select matching Time difference (tics/real): 1970.67 [ms] 266 [ms]
+------> SAMPLES FLAT CLOUD ---: 2695
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.481884 qttyError: 0.400742
+------>score: 0.430316 qttyError: 0.350278
+------>score: 0.466952 qttyError: 0.35436
+------>score: 0.496691 qttyError: 0.390724
+------>score: 0.560271 qttyError: 0.474954
+------>score: 0.460447 qttyError: 0.376623
+------>score: 0.456364 qttyError: 0.374026
+------>score: 0.474901 qttyError: 0.375881
+---------->Matching result: Time difference (tics/real): 233012 [ms] 29951 [ms]
+----> from: 44159 to: 1625
+---------->pre select matching Time difference (tics/real): 2215.97 [ms] 296 [ms]
+------> SAMPLES FLAT CLOUD ---: 2695
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.554042 qttyError: 0.456772
+------>score: 0.593379 qttyError: 0.500557
+------>score: 0.555928 qttyError: 0.457143
+------>score: 0.527481 qttyError: 0.42449
+------>score: 0.541736 qttyError: 0.445269
+------>score: 0.469746 qttyError: 0.379221
+------>score: 0.551581 qttyError: 0.444898
+------>score: 0.480246 qttyError: 0.397032
+---------->Matching result: Time difference (tics/real): 233076 [ms] 30041 [ms]
+----->file: ../input/config/diaphragm.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 677.026 [ms] 677 [ms]
+----->final render point:: 98376
+---------->CAD Mesh load: Time difference (tics/real): 112754 [ms] 33358 [ms]
+----->final cloud point:: 44159
+Gizmo ----->cad aprox: 92.1478
+---------->computeTreeConfig: Time difference (tics/real): 429242 [ms] 58757 [ms]
+----> from: 346 to: 121
+------>new score: 0.512945 by matching: 1
+----> from: 396 to: 138
+------>new score: 0.239486 by matching: 1
+----> from: 441 to: 154
+------>new score: 0.211685 by matching: 0
+----> from: 691 to: 241
+------>new score: 0.131553 by matching: 1
+----> from: 441 to: 154
+------>new score: 0.0766471 by matching: 1
+----> from: 346 to: 121
+------>new score: 0.0335063 by matching: 1
+----> from: 396 to: 138
+------>old score: 0.0335063
+----> from: 382 to: 133
+------>new score: 0.0266575 by matching: 0
+----> from: 346 to: 121
+------>new score: 0.024503 by matching: 0
+----> from: 382 to: 133
+------>new score: 0.0186805 by matching: 1
+---------->compute Tree result: Time difference (tics/real): 282588 [ms] 61734 [ms]
+---------->change render Time difference (tics/real): 2180.9 [ms] 2181 [ms]
+----->file: ../input/config/diaphragm.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 416.518 [ms] 416 [ms]
+----->final render point:: 98376
+---------->CAD Mesh load: Time difference (tics/real): 101995 [ms] 33437 [ms]
+----->final cloud point:: 44159
+Gizmo ----->cad aprox: 92.1478
+----> from: 102828 to: 40000
+----> from: 1832 to: 641
+------>new score: 0.0665506 by matching: 1
+----> from: 5953 to: 1625
+------>new score: 0.0414554 by matching: 1
+----> from: 78255 to: 40000
+----> from: 5625 to: 1625
+------>new score: 0.0167591 by matching: 1
+----> from: 85837 to: 40000
+----> from: 5940 to: 1625
+------>new score: 0.00699401 by matching: 0
+----> from: 57370 to: 40000
+----> from: 2090 to: 731
+------>new score: 0.00657051 by matching: 0
+----> from: 2642 to: 924
+------>old score: 0.00657051
+----> from: 2642 to: 924
+------>old score: 0.00657051
+----> from: 2642 to: 924
+------>old score: 0.00657051
+----> from: 102716 to: 40000
+----> from: 5952 to: 1625
+------>old score: 0.00657051
+----> from: 102822 to: 40000
+----> from: 2090 to: 731
+------>old score: 0.00657051
+---------->compute Tree result: Time difference (tics/real): 1.00289e+07 [ms] 1.34744e+06 [ms]
+--->BUNNY
+----->file: ../input/config/bunny.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 1698.16 [ms] 1698 [ms]
+----->final render point:: 207876
+---------->CAD Mesh load: Time difference (tics/real): 49107.1 [ms] 11412 [ms]
+----->final cloud point:: 124950
+Gizmo ----->cad aprox: 168.262
+----> from: 2454548 to: 40000
+----> from: 124950 to: 1625
+---------->pre select matching Time difference (tics/real): 209166 [ms] 164554 [ms]
+------> SAMPLES FLAT CLOUD ---: 40000
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.256689 qttyError: 0.0160315
+------>score: 0.240233 qttyError: 0.0321815
+------>score: 0.243777 qttyError: 0.0444807
+------>score: 0.227391 qttyError: 0.035334
+------>score: 0.256367 qttyError: 0.0562869
+------>score: 0.255347 qttyError: 0.0508668
+------>score: 0.275197 qttyError: 0.0536657
+------>score: 0.279352 qttyError: 0.0433693
+---------->Matching result: Time difference (tics/real): 872396 [ms] 111649 [ms]
+----> from: 2454548 to: 40000
+----> from: 124950 to: 1625
+---------->pre select matching Time difference (tics/real): 227691 [ms] 164901 [ms]
+------> SAMPLES FLAT CLOUD ---: 40000
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.209086 qttyError: 0.0184046
+------>score: 0.190718 qttyError: 0.00260944
+------>score: 0.217096 qttyError: 0.025773
+------>score: 0.21169 qttyError: 0.00806136
+------>score: 0.253047 qttyError: 0.0176146
+------>score: 0.256682 qttyError: 0.0243316
+------>score: 0.243308 qttyError: 0.0363452
+------>score: 0.26152 qttyError: 0.00958018
+---------->Matching result: Time difference (tics/real): 909541 [ms] 116992 [ms]
+----> from: 2454548 to: 40000
+----> from: 124950 to: 1625
+---------->pre select matching Time difference (tics/real): 228345 [ms] 166025 [ms]
+------> SAMPLES FLAT CLOUD ---: 40000
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.196403 qttyError: 0.00251655
+------>score: 0.243845 qttyError: 0.00710436
+------>score: 0.256918 qttyError: 0.022132
+------>score: 0.25611 qttyError: 0.0355956
+------>score: 0.28055 qttyError: 0.0418427
+------>score: 0.250721 qttyError: 0.033035
+------>score: 0.291576 qttyError: 0.0383435
+------>score: 0.308352 qttyError: 0.0504724
+---------->Matching result: Time difference (tics/real): 914455 [ms] 117298 [ms]
+---->final filter points: 20806
+----> from: 124950 to: 1625
+---------->pre select matching Time difference (tics/real): 4341.62 [ms] 749 [ms]
+------> SAMPLES FLAT CLOUD ---: 20806
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.441763 qttyError: 0.222628
+------>score: 0.569099 qttyError: 0.365904
+------>score: 0.628404 qttyError: 0.423195
+------>score: 0.365646 qttyError: 0.186917
+------>score: 0.367879 qttyError: 0.140681
+------>score: 0.536763 qttyError: 0.283188
+------>score: 0.464109 qttyError: 0.282467
+------>score: 0.398546 qttyError: 0.203499
+---------->Matching result: Time difference (tics/real): 1.40003e+06 [ms] 178110 [ms]
+----> from: 124950 to: 1625
+---------->pre select matching Time difference (tics/real): 3868.5 [ms] 628 [ms]
+------> SAMPLES FLAT CLOUD ---: 20806
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.571204 qttyError: 0.330434
+------>score: 0.639066 qttyError: 0.436365
+------>score: 0.454606 qttyError: 0.234211
+------>score: 0.561854 qttyError: 0.323416
+------>score: 0.526926 qttyError: 0.340911
+------>score: 0.551375 qttyError: 0.347159
+------>score: 0.486403 qttyError: 0.305921
+------>score: 0.373175 qttyError: 0.147554
+---------->Matching result: Time difference (tics/real): 1.40014e+06 [ms] 177178 [ms]
+----> from: 124950 to: 1625
+---------->pre select matching Time difference (tics/real): 4118.81 [ms] 709 [ms]
+------> SAMPLES FLAT CLOUD ---: 20806
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.660288 qttyError: 0.510814
+------>score: 0.322928 qttyError: 0.165193
+------>score: 0.539023 qttyError: 0.271076
+------>score: 0.418745 qttyError: 0.203932
+------>score: 0.629808 qttyError: 0.446217
+------>score: 0.59937 qttyError: 0.404883
+------>score: 0.587012 qttyError: 0.389647
+------>score: 0.574794 qttyError: 0.386908
+---------->Matching result: Time difference (tics/real): 1.39024e+06 [ms] 176670 [ms]
+----->file: ../input/config/bunny.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 945.288 [ms] 945 [ms]
+----->final render point:: 207876
+---------->CAD Mesh load: Time difference (tics/real): 61074.2 [ms] 12075 [ms]
+----->final cloud point:: 124950
+Gizmo ----->cad aprox: 168.262
+---------->computeTreeConfig: Time difference (tics/real): 872404 [ms] 131383 [ms]
+----> from: 476 to: 166
+------>new score: 0.149183 by matching: 1
+----> from: 596 to: 208
+------>old score: 0.149183
+----> from: 664 to: 232
+------>old score: 0.149183
+----> from: 841 to: 294
+------>new score: 0.148089 by matching: 0
+----> from: 664 to: 232
+------>old score: 0.148089
+----> from: 476 to: 166
+------>old score: 0.148089
+----> from: 567 to: 198
+------>old score: 0.148089
+----> from: 664 to: 232
+------>old score: 0.148089
+----> from: 596 to: 208
+------>old score: 0.148089
+----> from: 567 to: 198
+------>old score: 0.148089
+---------->compute Tree result: Time difference (tics/real): 340205 [ms] 257155 [ms]
+---------->change render Time difference (tics/real): 8934.57 [ms] 8935 [ms]
+----->file: ../input/config/bunny.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 941.582 [ms] 941 [ms]
+----->final render point:: 207876
+---------->CAD Mesh load: Time difference (tics/real): 42916.6 [ms] 10891 [ms]
+----->final cloud point:: 124950
+Gizmo ----->cad aprox: 168.262
+----> from: 227564 to: 40000
+----> from: 19556 to: 1625
+------>new score: 0.138024 by matching: 1
+----> from: 109898 to: 40000
+----> from: 19552 to: 1625
+------>new score: 0.138019 by matching: 0
+----> from: 40210 to: 40000
+----> from: 19360 to: 1625
+------>new score: 0.136173 by matching: 0
+----> from: 227564 to: 40000
+----> from: 19556 to: 1625
+------>new score: 0.136144 by matching: 0
+----> from: 227372 to: 40000
+----> from: 10554 to: 1625
+------>old score: 0.136144
+----> from: 202583 to: 40000
+----> from: 19556 to: 1625
+------>old score: 0.136144
+----> from: 40008 to: 40000
+----> from: 10554 to: 1625
+------>old score: 0.136144
+----> from: 64146 to: 40000
+----> from: 19551 to: 1625
+------>old score: 0.136144
+----> from: 64025 to: 40000
+----> from: 19967 to: 1625
+------>old score: 0.136144
+----> from: 112555 to: 40000
+----> from: 19552 to: 1625
+------>old score: 0.136144
+---------->compute Tree result: Time difference (tics/real): 1.94057e+07 [ms] 2.85881e+06 [ms]
+--->USB
+----->file: ../input/config/usb.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 510.108 [ms] 510 [ms]
+----->final render point:: 6696
+---------->CAD Mesh load: Time difference (tics/real): 24604.4 [ms] 24605 [ms]
+----->final cloud point:: 3811
+Gizmo ----->cad aprox: 679.498
+----> from: 1557175 to: 40000
+----> from: 3811 to: 1333
+---------->pre select matching Time difference (tics/real): 148528 [ms] 111118 [ms]
+------> SAMPLES FLAT CLOUD ---: 40000
+------> SAMPLES CAD CLOUD ---: 1333
+------>score: 0.0255677 qttyError: 6.42189e-07
+------>score: 0.0198566 qttyError: 6.42189e-07
+------>score: 0.0242738 qttyError: 6.42189e-07
+------>score: 0.0528809 qttyError: 6.42189e-07
+------>score: 0.02247 qttyError: 6.42189e-07
+------>score: 0.0355591 qttyError: 6.42189e-07
+------>score: 0.0176322 qttyError: 6.42189e-07
+------>score: 0.0177568 qttyError: 6.42189e-07
+---------->Matching result: Time difference (tics/real): 385278 [ms] 49760 [ms]
+----> from: 1557175 to: 40000
+----> from: 3811 to: 1333
+---------->pre select matching Time difference (tics/real): 151302 [ms] 110939 [ms]
+------> SAMPLES FLAT CLOUD ---: 40000
+------> SAMPLES CAD CLOUD ---: 1333
+------>score: 0.0263338 qttyError: 6.42189e-07
+------>score: 0.0273278 qttyError: 6.42189e-07
+------>score: 0.03222 qttyError: 6.42189e-07
+------>score: 0.0231519 qttyError: 6.42189e-07
+------>score: 0.0200392 qttyError: 6.42189e-07
+------>score: 0.0256901 qttyError: 6.42189e-07
+------>score: 0.0253517 qttyError: 6.42189e-07
+------>score: 0.017856 qttyError: 6.42189e-07
+---------->Matching result: Time difference (tics/real): 400471 [ms] 51103 [ms]
+----> from: 1557175 to: 40000
+----> from: 3811 to: 1333
+---------->pre select matching Time difference (tics/real): 150300 [ms] 110275 [ms]
+------> SAMPLES FLAT CLOUD ---: 40000
+------> SAMPLES CAD CLOUD ---: 1333
+------>score: 0.0195321 qttyError: 6.42189e-07
+------>score: 0.0246719 qttyError: 6.42189e-07
+------>score: 0.0182261 qttyError: 6.42189e-07
+------>score: 0.0202099 qttyError: 6.42189e-07
+------>score: 0.0276889 qttyError: 6.42189e-07
+------>score: 0.0302688 qttyError: 6.42189e-07
+------>score: 0.0367783 qttyError: 6.42189e-07
+------>score: 0.0217353 qttyError: 6.42189e-07
+---------->Matching result: Time difference (tics/real): 392576 [ms] 50832 [ms]
+---->final filter points: 9060
+----> from: 3811 to: 1333
+---------->pre select matching Time difference (tics/real): 1048.18 [ms] 138 [ms]
+------> SAMPLES FLAT CLOUD ---: 9060
+------> SAMPLES CAD CLOUD ---: 1333
+------>score: 0.338433 qttyError: 0.126159
+------>score: 0.430386 qttyError: 0.181788
+------>score: 0.349669 qttyError: 0.198124
+------>score: 0.277278 qttyError: 0.137748
+------>score: 0.390199 qttyError: 0.158168
+------>score: 0.431315 qttyError: 0.210817
+------>score: 0.309864 qttyError: 0.168322
+------>score: 0.443661 qttyError: 0.215894
+---------->Matching result: Time difference (tics/real): 530062 [ms] 67902 [ms]
+----> from: 3811 to: 1333
+---------->pre select matching Time difference (tics/real): 642.721 [ms] 92 [ms]
+------> SAMPLES FLAT CLOUD ---: 9060
+------> SAMPLES CAD CLOUD ---: 1333
+------>score: 0.424623 qttyError: 0.197461
+------>score: 0.320648 qttyError: 0.163466
+------>score: 0.303042 qttyError: 0.133885
+------>score: 0.357185 qttyError: 0.153642
+------>score: 0.393327 qttyError: 0.170419
+------>score: 0.339645 qttyError: 0.197572
+------>score: 0.369076 qttyError: 0.195585
+------>score: 0.370586 qttyError: 0.167329
+---------->Matching result: Time difference (tics/real): 535754 [ms] 68627 [ms]
+----> from: 3811 to: 1333
+---------->pre select matching Time difference (tics/real): 673.694 [ms] 97 [ms]
+------> SAMPLES FLAT CLOUD ---: 9060
+------> SAMPLES CAD CLOUD ---: 1333
+------>score: 0.359288 qttyError: 0.176049
+------>score: 0.31722 qttyError: 0.15
+------>score: 0.339505 qttyError: 0.163245
+------>score: 0.313704 qttyError: 0.145585
+------>score: 0.377158 qttyError: 0.157726
+------>score: 0.340019 qttyError: 0.183996
+------>score: 0.274438 qttyError: 0.138631
+------>score: 0.354258 qttyError: 0.200552
+---------->Matching result: Time difference (tics/real): 533638 [ms] 69087 [ms]
+----->file: ../input/config/usb.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 508.375 [ms] 508 [ms]
+----->final render point:: 6696
+---------->CAD Mesh load: Time difference (tics/real): 26741.5 [ms] 26742 [ms]
+----->final cloud point:: 3811
+Gizmo ----->cad aprox: 679.498
+---------->computeTreeConfig: Time difference (tics/real): 666496 [ms] 102881 [ms]
+----> from: 230 to: 80
+------>new score: 0.0226338 by matching: 1
+----> from: 309 to: 108
+------>old score: 0.0226338
+----> from: 286 to: 100
+------>old score: 0.0226338
+----> from: 324 to: 113
+------>old score: 0.0226338
+----> from: 384 to: 134
+------>old score: 0.0226338
+----> from: 230 to: 80
+------>old score: 0.0226338
+----> from: 316 to: 110
+------>old score: 0.0226338
+----> from: 384 to: 134
+------>old score: 0.0226338
+----> from: 316 to: 110
+------>old score: 0.0226338
+----> from: 384 to: 134
+------>old score: 0.0226338
+---------->compute Tree result: Time difference (tics/real): 227364 [ms] 55366 [ms]
+---------->change render Time difference (tics/real): 2254.16 [ms] 2254 [ms]
+----->file: ../input/config/usb.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 256.601 [ms] 256 [ms]
+----->final render point:: 6696
+---------->CAD Mesh load: Time difference (tics/real): 24247.1 [ms] 24247 [ms]
+----->final cloud point:: 3811
+Gizmo ----->cad aprox: 679.498
+----> from: 168925 to: 40000
+----> from: 3713 to: 1299
+------>new score: 0.0553442 by matching: 1
+----> from: 168825 to: 40000
+----> from: 2770 to: 969
+------>new score: 0.032638 by matching: 1
+----> from: 81054 to: 40000
+----> from: 3651 to: 1277
+------>new score: 0.0316394 by matching: 0
+----> from: 146881 to: 40000
+----> from: 3714 to: 1299
+------>new score: 0.0299359 by matching: 0
+------>old score: 0.0299359
+----> from: 48077 to: 40000
+----> from: 3708 to: 1297
+------>new score: 0.0288167 by matching: 1
+----> from: 48077 to: 40000
+----> from: 3811 to: 1333
+------>new score: 0.0236555 by matching: 1
+----> from: 81054 to: 40000
+----> from: 3714 to: 1299
+------>new score: 0.0216508 by matching: 1
+----> from: 168825 to: 40000
+----> from: 3714 to: 1299
+------>new score: 0.0205749 by matching: 0
+----> from: 48400 to: 40000
+----> from: 3599 to: 1259
+------>new score: 0.0197899 by matching: 0
+---------->compute Tree result: Time difference (tics/real): 1.21806e+07 [ms] 1.66086e+06 [ms]
+--->FULL STEP
+----->file: ../input/config/full_step.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 35.135 [ms] 35 [ms]
+----->final render point:: 3594
+---------->CAD Mesh load: Time difference (tics/real): 15799.7 [ms] 8481 [ms]
+----->final cloud point:: 6905
+Gizmo ----->cad aprox: 118.096
+----> from: 5706848 to: 40000
+----> from: 6905 to: 1625
+---------->pre select matching Time difference (tics/real): 539863 [ms] 399867 [ms]
+------> SAMPLES FLAT CLOUD ---: 40000
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.00102978 qttyError: 0
+------>score: 0.00165097 qttyError: 0
+------>score: 0.00153991 qttyError: 0
+------>score: 0.00413539 qttyError: 0
+------>score: 0.00146057 qttyError: 0
+------>score: 0.0270906 qttyError: 0
+------>score: 0.00569168 qttyError: 0
+------>score: 0.00166228 qttyError: 0
+---------->Matching result: Time difference (tics/real): 499728 [ms] 64747 [ms]
+----> from: 5706848 to: 40000
+----> from: 6905 to: 1625
+---------->pre select matching Time difference (tics/real): 534022 [ms] 395912 [ms]
+------> SAMPLES FLAT CLOUD ---: 40000
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.00623101 qttyError: 0
+------>score: 0.00275936 qttyError: 0
+------>score: 0.00127835 qttyError: 0
+------>score: 0.00253764 qttyError: 0
+------>score: 0.00107013 qttyError: 0
+------>score: 0.00389644 qttyError: 0
+------>score: 0.000887803 qttyError: 0
+------>score: 0.00893203 qttyError: 0
+---------->Matching result: Time difference (tics/real): 508867 [ms] 65798 [ms]
+----> from: 5706848 to: 40000
+----> from: 6905 to: 1625
+---------->pre select matching Time difference (tics/real): 539578 [ms] 393568 [ms]
+------> SAMPLES FLAT CLOUD ---: 40000
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.011633 qttyError: 0
+------>score: 0.00963975 qttyError: 0
+------>score: 0.0158381 qttyError: 0
+------>score: 0.00465317 qttyError: 0
+------>score: 0.0210522 qttyError: 0
+------>score: 0.0184295 qttyError: 0
+------>score: 0.0173789 qttyError: 0
+------>score: 0.0151899 qttyError: 0
+---------->Matching result: Time difference (tics/real): 571901 [ms] 73906 [ms]
+---->final filter points: 13729
+----> from: 6905 to: 1625
+---------->pre select matching Time difference (tics/real): 804.55 [ms] 113 [ms]
+------> SAMPLES FLAT CLOUD ---: 13729
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.0335472 qttyError: 0
+------>score: 0.277877 qttyError: 0.202637
+------>score: 0.276228 qttyError: 0.198412
+------>score: 0.050232 qttyError: 0
+------>score: 0.0286185 qttyError: 0
+------>score: 0.260283 qttyError: 0.193605
+------>score: 0.0413901 qttyError: 0
+------>score: 0.0348082 qttyError: 0
+---------->Matching result: Time difference (tics/real): 883854 [ms] 111618 [ms]
+----> from: 6905 to: 1625
+---------->pre select matching Time difference (tics/real): 940.372 [ms] 132 [ms]
+------> SAMPLES FLAT CLOUD ---: 13729
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.0422016 qttyError: 0
+------>score: 0.0394088 qttyError: 0
+------>score: 0.0462504 qttyError: 0
+------>score: 0.0351743 qttyError: 0
+------>score: 0.0566791 qttyError: 0
+------>score: 0.0411708 qttyError: 0
+------>score: 0.0361618 qttyError: 0
+------>score: 0.0391202 qttyError: 0
+---------->Matching result: Time difference (tics/real): 883168 [ms] 111670 [ms]
+----> from: 6905 to: 1625
+---------->pre select matching Time difference (tics/real): 555.256 [ms] 83 [ms]
+------> SAMPLES FLAT CLOUD ---: 13729
+------> SAMPLES CAD CLOUD ---: 1625
+------>score: 0.274868 qttyError: 0.199942
+------>score: 0.25811 qttyError: 0.190473
+------>score: 0.0338887 qttyError: 0
+------>score: 0.256433 qttyError: 0.192148
+------>score: 0.0336988 qttyError: 0
+------>score: 0.0209238 qttyError: 0
+------>score: 0.0438699 qttyError: 0
+------>score: 0.0379209 qttyError: 0
+---------->Matching result: Time difference (tics/real): 881264 [ms] 111711 [ms]
+----->file: ../input/config/full_step.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 32.283 [ms] 32 [ms]
+----->final render point:: 3594
+---------->CAD Mesh load: Time difference (tics/real): 18243.3 [ms] 10810 [ms]
+----->final cloud point:: 6905
+Gizmo ----->cad aprox: 118.096
+---------->computeTreeConfig: Time difference (tics/real): 2.37076e+06 [ms] 324982 [ms]
+----> from: 496 to: 173
+------>new score: 0.0252922 by matching: 1
+----> from: 535 to: 187
+------>old score: 0.0252922
+----> from: 734 to: 256
+------>new score: 0.00323526 by matching: 1
+----> from: 755 to: 264
+------>old score: 0.00323526
+----> from: 734 to: 256
+------>new score: 0.000614152 by matching: 1
+----> from: 496 to: 173
+------>old score: 0.000614152
+----> from: 535 to: 187
+------>old score: 0.000614152
+----> from: 734 to: 256
+------>new score: 0.000473739 by matching: 0
+----> from: 899 to: 314
+------>new score: 0.000369998 by matching: 0
+----> from: 734 to: 256
+------>new score: 0.000366228 by matching: 0
+---------->compute Tree result: Time difference (tics/real): 617517 [ms] 177576 [ms]
+---------->change render Time difference (tics/real): 10737.3 [ms] 10818 [ms]
+----->file: ../input/config/full_step.xml extension: xml
+---------->CAD Mesh load: Time difference (tics/real): 35.237 [ms] 37 [ms]
+----->final render point:: 3594
+---------->CAD Mesh load: Time difference (tics/real): 17547.8 [ms] 10435 [ms]
+----->final cloud point:: 6905
+Gizmo ----->cad aprox: 118.096
+----> from: 632716 to: 40000
+----> from: 878 to: 307
+------>new score: 0.0147098 by matching: 1
+----> from: 4542 to: 1589
+------>new score: 0.0138743 by matching: 0
+------>old score: 0.0138743
+----> from: 81806 to: 40000
+----> from: 877 to: 306
+------>new score: 0.0137144 by matching: 0
+----> from: 4542 to: 1589
+------>old score: 0.0137144
+------>old score: 0.0137144
+----> from: 180001 to: 40000
+----> from: 877 to: 306
+------>new score: 0.0137031 by matching: 0
+----> from: 877 to: 306
+------>old score: 0.0137031
+----> from: 3623 to: 1268
+------>old score: 0.0137031
+----> from: 877 to: 306
+------>old score: 0.0137031
+---------->compute Tree result: Time difference (tics/real): 9.41038e+06 [ms] 1.34846e+06 [ms]

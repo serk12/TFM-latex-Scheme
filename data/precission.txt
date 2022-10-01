@@ -1,0 +1,36 @@
+----->file: ../input/config/full_step.xml extension: xml
+---------->cad distances Time difference (tics/real): 268666 [ms] 37441 [ms]
+------>precision: 3.59104
+---------->cad distances Time difference (tics/real): 275455 [ms] 37874 [ms]
+------>precision: 3.60081
+---------->cad distances Time difference (tics/real): 275625 [ms] 37799 [ms]
+------>precision: 3.58472
+---------->cad distances Time difference (tics/real): 275841 [ms] 37458 [ms]
+------>precision: 3.58082
+---------->cad distances Time difference (tics/real): 323958 [ms] 45014 [ms]
+------>precision: 3.58287
+----->file: ../input/config/diaphragm.xml extension: xml
+---------->cad distances Time difference (tics/real): 908718 [ms] 129924 [ms]
+------>precision: 521.642
+---------->cad distances Time difference (tics/real): 916817 [ms] 128659 [ms]
+------>precision: 521.69
+---------->cad distances Time difference (tics/real): 922657 [ms] 131076 [ms]
+------>precision: 521.693
+---------->cad distances Time difference (tics/real): 924534 [ms] 137763 [ms]
+------>precision: 521.668
+---------->cad distances Time difference (tics/real): 916119 [ms] 133744 [ms]
+------>precision: 521.675
+----->file: ../input/config/usb.xml extension: xml
+---------->cad distances Time difference (tics/real): 1.38384e+06 [ms] 194956 [ms]
+------>precision: 1100.1
+---------->cad distances Time difference (tics/real): 1.42294e+06 [ms] 198787 [ms]
+------>precision: 1100.22
+---------->cad distances Time difference (tics/real): 1.40975e+06 [ms] 195873 [ms]
+------>precision: 1100.17
+---------->cad distances Time difference (tics/real): 1.37146e+06 [ms] 180122 [ms]
+------>precision: 1100.13
+---------->cad distances Time difference (tics/real): 1.38188e+06 [ms] 182052 [ms]
+------>precision: 1100.1
+----->file: ../input/config/bunny.xml extension: xml
+---------->cad distances Time difference (tics/real): 7.01693e+07 [ms] 8.99106e+06 [ms]
+------>precision: 2.1067
